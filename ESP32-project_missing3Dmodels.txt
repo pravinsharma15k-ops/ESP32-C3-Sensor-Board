@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2026-10-25 16:51
+### Printed by checking_3D_models plugin
+Board file: /home/williams/Documents/KiCad/ESP32_Demo/ESP32-project/ESP32-project.kicad_pcb
+3D missing models written to:
+/home/williams/Documents/KiCad/ESP32_Demo/ESP32-project/ESP32-project_missing3Dmodels.txt
+-------
+('U4', '/usr/share/kicad/3dmodels/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.step')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']
